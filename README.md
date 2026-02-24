@@ -1,1 +1,1 @@
-CI/CD Sample 
+CI/CD Sample
